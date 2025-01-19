@@ -1,9 +1,9 @@
-# 🚀 Introduction
+## 🚀 Introduction
 Segmentation Performance Evaluator(SPE) is used to estimat segmentation
 models’ performance on unlabeled data. It is adaptable
 to various evaluation metrics and model architectures.
 
-# 🚢 How to use
+## 🚢 How to use
 1. Create virtual environment and install requirement package.
 ```shell
 # Optional
@@ -23,7 +23,7 @@ python spe_main.py
 ```
 4. The fitting curve results will be generated in the `result/curve` directory
 
-# 🥳 Citation
+## 🥳 Citation
 If you find our work or any of our materials useful, please cite our paper:
 ```
 @inproceedings{Zou2025SPE,
