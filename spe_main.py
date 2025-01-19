@@ -60,8 +60,8 @@ def fitting_function_and_visualization(train_config):
 
 
 def build_spe(train_config):
-    # train_and_inference(train_config)
-    # pseudo_metric(train_config)
+    train_and_inference(train_config)
+    pseudo_metric(train_config)
     fitting_function_and_visualization(train_config)
 
 
