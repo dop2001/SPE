@@ -24,6 +24,7 @@ python spe_main.py
 4. The fitting curve results will be generated in the `result/curve` directory
 
 # 🥳 Citation
+If you find our work or any of our materials useful, please cite our paper:
 ```
 @inproceedings{Zou2025SPE,
   title={Performance Estimation for Supervised Medical
