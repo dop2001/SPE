@@ -4,7 +4,7 @@ models’ performance on unlabeled data. It is adaptable
 to various evaluation metrics and model architectures.
 
 # 🚢 How to use
-1. Create virtual environmentand install requirement package.
+1. Create virtual environmentand and install requirement package.
 ```shell
 # Optional
 conda create -n SPE python=3.8
