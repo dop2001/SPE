@@ -22,7 +22,7 @@ python spe_main.py
 ```
 4. The fitting curve results will be generated in the `result/curve` directory
 
-## 🥳 Citation
+# 🥳 Citation
 ```
 @inproceedings{Zou2025SPE,
   title={Performance Estimation for Supervised Medical
