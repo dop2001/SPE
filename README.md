@@ -15,7 +15,7 @@ git clone https://github.com/dop2001/SPE.git
 cd SPE
 pip install -r requirements.txt
 ```
-2. Download the dataset and place it in the `datasets` directory.
+2. Download the dataset ([Baidu Drive](https://pan.baidu.com/s/1ZOnyP3N45GTD1txuNmSFlQ?pwd=8888) | [Google Drive](https://drive.google.com/drive/folders/1MQA-SlSFbwVF9nr7qAV89ACCO-B4sfrF?usp=sharing)) and place it in the `datasets` directory.
 3. Build SPE framework for every dataset.
 ```shell
 python spe_main.py
