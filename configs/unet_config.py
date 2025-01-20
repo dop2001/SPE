@@ -52,4 +52,9 @@ class UnetConfig:
 
         self.depth_map = {
             'JSRT': 1,
+            'PSFHS': 1,
+            'SCD': 1,
+            'ISIC2018': 1,
+            'HC18': 1,
+            '3D-IRCADB': 256,
         }
