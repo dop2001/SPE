@@ -20,14 +20,3 @@ Segmentation Performance Evaluator(SPE) is used to estimat segmentation modelsâ€
     python spe_main.py
     ```
 5. The fitting curve results will be generated in the `result/curve` directory
-
-## ðŸ¥³ Citation
-If you find our work or any of our materials useful, please cite our paper:
-```
-@inproceedings{SPE2025,
-  title={Performance Estimation for Supervised Medical Image Segmentation Models on Unlabeled Data Using UniverSeg},
-  booktitle={MICCAI 2025},
-  year={2025}
-}
-```
-
