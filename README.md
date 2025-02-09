@@ -1,7 +1,5 @@
 ## 🚀 Introduction
-Segmentation Performance Evaluator(SPE) is used to estimat segmentation
-models’ performance on unlabeled data. It is adaptable
-to various evaluation metrics and model architectures.
+Segmentation Performance Evaluator(SPE) is used to estimat segmentation models’ performance on unlabeled data. It is adaptable to various evaluation metrics and model architectures.
 
 ## 🚢 How to use
 1. Create virtual environment and install requirement package.
@@ -26,10 +24,10 @@ to various evaluation metrics and model architectures.
 ## 🥳 Citation
 If you find our work or any of our materials useful, please cite our paper:
 ```
-@inproceedings{Zou2025SPE,
+@inproceedings{SPE2025,
   title={Performance Estimation for Supervised Medical Image Segmentation Models on Unlabeled Data Using UniverSeg},
-  author={Jingchen Zou, Jianqiang Li, Gabriel Jimenez, Qing Zhao, Daniel Racoceanu, Matias Cosarinsky, Enzo Ferrante, and Guanghui Fu},
   booktitle={MICCAI 2025},
   year={2025}
 }
 ```
+
